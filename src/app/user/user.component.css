@@ -1,0 +1,15 @@
+.add-form {
+    color: green;
+}
+
+.edit-form {
+    color: blue;
+}
+
+.add-button {
+    background-color: green;
+}
+
+.edit-button {
+    background-color: blue;
+}
