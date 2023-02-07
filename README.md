@@ -8,5 +8,5 @@
 
 <h3>Edit form</h3>
 
-![add form](src/assets/edit.jpg)
+<img src="https://github.com/Mohamed-Hassouna/User-Actions/src/assets/edit.jpg" width="100" height="100">
 
